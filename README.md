@@ -15,6 +15,19 @@ Profil Credly : https://www.credly.com/users/mehdi-benabdelmoumene
 
 ---
 
+## 🐧 Linux Foundation — Professional Certificate (en cours)
+
+*Programme "Open Source Software Development, Linux and Git" — 3 cours + certificat final*
+
+| Date | Cours | Statut | Vérification |
+|------|-------|--------|---------------|
+| Juillet 2026 | LFD107x — Linux for Developers | ✅ Obtenu | [edX](https://courses.edx.org/certificates/e8a20891d65a4b59b7baa4cf461ab115) |
+| — | LFD108x — Linux Tools for Software Development | 🔄 En cours | — |
+| — | Git for Distributed Software Development | ⏳ À venir | — |
+| — | **Professional Certificate (final)** | ⏳ À venir | — |
+
+---
+
 ## 🔄 En cours
 
 | Certification | Organisme | Deadline |
