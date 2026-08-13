@@ -4,60 +4,44 @@ Certifications obtenues et en cours dans le cadre de la reconversion DevSecOps 2
 
 Profil Credly : https://www.credly.com/users/mehdi-benabdelmoumene
 
----
-
 ## ✅ Obtenues
 
 | Date | Certification | Organisme | Niveau | Vérification |
-|------|---------------|-----------|--------|--------------|
-| Avril 2026 | PCEP — Certified Entry-Level Python Programmer | Python Institute | Entry | [Credly](https://www.credly.com/badges/a6ad99be-578c-431c-b9c5-b9adad0b3218/public_url) |
-| Juin 2026 | Google IT Support | Coursera / Google | Professionnel | [Credly](https://www.credly.com/badges/61949a31-c99e-4c4e-82e2-1612becfd27c/public_url) |
+|---|---|---|---|---|
+| Avril 2026 | PCEP — Certified Entry-Level Python Programmer | Python Institute | Entry | Credly |
+| Juin 2026 | Google IT Support | Coursera / Google | Professionnel | Credly |
+| Août 2026 | Open Source Software Development, Linux and Git — Professional Certificate | LinuxFoundationX / edX | Professionnel | edX |
 
----
-
-## 🐧 Linux Foundation — Professional Certificate (en cours)
-
-*Programme "Open Source Software Development, Linux and Git" — 3 cours + certificat final*
+### 🐧 Détail Linux Foundation Professional Certificate
 
 | Date | Cours | Statut | Vérification |
-|------|-------|--------|---------------|
-| Juillet 2026 | LFD107x — Linux for Developers | ✅ Obtenu | [edX](https://courses.edx.org/certificates/e8a20891d65a4b59b7baa4cf461ab115) |
-| — | LFD108x — Linux Tools for Software Development | 🔄 En cours | — |
-| — | Git for Distributed Software Development | ⏳ À venir | — |
-| — | **Professional Certificate (final)** | ⏳ À venir | — |
-
----
+|---|---|---|---|
+| Juillet 2026 | LFD107x — Linux for Developers | ✅ Obtenu | edX |
+| Juillet 2026 | LFD108x — Linux Tools for Software Development | ✅ Obtenu | edX |
+| Août 2026 | LFD109x — Git for Distributed Software Development | ✅ Obtenu | edX |
+| Août 2026 | Professional Certificate (final) | ✅ Obtenu | edX |
 
 ## 🔄 En cours
 
-| Certification | Organisme | Deadline |
-|---------------|-----------|----------|
-| PCAP — Certified Associate Python Programmer | Python Institute | 31 août 2026 |
-| AZ-900 — Azure Fundamentals | Microsoft | 11 août 2026 |
-
----
+| Certification | Organisme | Échéance |
+|---|---|---|
+| AZ-104 — Azure Administrator | Microsoft | Examen le 9 octobre 2026 |
 
 ## 🗓️ À venir
-
-### Phase 1
-
-| Certification | Organisme |
-|---------------|-----------|
-| TOSA Python | ISOGRAD |
 
 ### Phase 2
 
 | Certification | Organisme |
-|---------------|-----------|
-| ISC2 CC | ISC2 |
-| AZ-104 — Azure Administrator | Microsoft |
+|---|---|
+| PCAP — Certified Associate Python Programmer | Python Institute |
 | Security+ | CompTIA |
 | CCA-F | Anthropic |
+| ISC2 CC | ISC2 |
 
 ### Phase 3
 
 | Certification | Organisme |
-|---------------|-----------|
+|---|---|
 | SC-500 | Microsoft |
 | AZ-400 — DevOps Engineer Expert | Microsoft |
 | Terraform Associate | HashiCorp |
@@ -71,7 +55,7 @@ Profil Credly : https://www.credly.com/users/mehdi-benabdelmoumene
 ### Phase 4
 
 | Certification | Organisme |
-|---------------|-----------|
+|---|---|
 | OSCP | OffSec |
 | CDP — Certified DevSecOps Professional | Practical DevSecOps |
 | CDE — Certified DevSecOps Expert | Practical DevSecOps |
@@ -83,6 +67,4 @@ Profil Credly : https://www.credly.com/users/mehdi-benabdelmoumene
 | AWS DevOps Engineer Professional | AWS |
 | AWS Security Specialty | AWS |
 
----
-
-> Roadmap complète : [PLANMEHDIROADMAP.pdf](./PLANMEHDIROADMAP.pdf)
+Roadmap complète : PLANMEHDIROADMAP.pdf
