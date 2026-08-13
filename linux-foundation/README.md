@@ -6,11 +6,11 @@ Programme en 3 cours + certificat professionnel final, réalisé via LinuxFounda
 
 - [x] **LFD107x** — Open Source Software Development: Linux for Developers
 - [x] **LFD108x** — Linux Tools for Software Development
-- [ ] **LFD109x** — Git for Distributed Software Development
+- [x] **LFD109x** — Git for Distributed Software Development
 
 ## Certificat final
 
-- [ ] Open Source Software Development, Linux and Git — Professional Certificate
+- [x] Open Source Software Development, Linux and Git — Professional Certificate
 
 ## Contenu
 
